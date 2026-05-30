@@ -332,7 +332,7 @@ repos:
 ## Вопросы?
 
 - 💬 Создайте Discussion для вопросов
-- 📧 Email: demo@example.com
+- 📧 Email: veber612@mail.ru
 - 🐛 Найдите баг? Создайте Issue
 
 **Спасибо за контрибьюцию!** 🙏
