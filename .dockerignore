@@ -1,0 +1,106 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Version control
+.github
+.gitlab-ci.yml
+.circleci
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*.swn
+.DS_Store
+*.iml
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.ruff_cache
+
+# Environment variables (use .env.docker.example instead)
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Docker
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+
+# Testing & CI
+.editorconfig
+.pre-commit-config.yaml
+Makefile
+tox.ini
+pytest.ini
+setup.cfg
+setup.py
+
+# Documentation
+docs/
+README*
+CONTRIBUTING*
+SECURITY*
+LICENSE*
+CHANGELOG*
+
+# Node (if there's any frontend code)
+node_modules/
+npm-debug.log
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+temp/
+
+# Development files
+.env.example
+.env.docker.example
+demo.db
+
+# Misc
+.editorconfig
+Makefile

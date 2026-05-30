@@ -1,0 +1,40 @@
+*.log
+*.db
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+.env.docker
+
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.iml
+
+# Build & distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+logs/
+
+# Cache
+.ruff_cache
+.pytest_cache
+.mypy_cache
+.tox/
+
+# OS
+.DS_Store
